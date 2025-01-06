@@ -2,13 +2,6 @@
 
 Somos una organización dedicada al desarrollo de **tours virtuales interactivos** utilizando **krpano**. Nuestro objetivo es crear experiencias inmersivas en 360° que permitan explorar entornos de manera innovadora y accesible.
 
-## Proyecto Actual
-
-### 1. [Lonquimay](https://github.com/Terra-Works/Lonquimay)
-- **Descripción**: Este proyecto presenta parcelas en venta en la región de Lonquimay. A través de un tour virtual en 360°, buscamos mostrar la belleza y las características de las parcelas, facilitando a los interesados la exploración de la zona.
-- **Tecnologías**: krpano, HTML5, CSS3, JavaScript.
-- **Estado del proyecto**: En desarrollo activo. Actualmente estamos trabajando en la implementación de nuevas funcionalidades interactivas y mejoras visuales.
-
 ## ¿Cómo colaborar?
 
 Si estás interesado en formar parte de **Terraworks**, aquí te mostramos cómo colaborar:
